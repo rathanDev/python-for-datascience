@@ -1,0 +1,13 @@
+Data Analysis and Data cleaning library
+Built on top of Numpy
+Has simple data visualization capabilities
+
+Operations
+----------
+Series
+DataFrames
+Missing Data
+Group By
+Merging, Joining and Concatenating
+Operations
+Data Input and Output
