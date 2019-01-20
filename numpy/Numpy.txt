@@ -1,0 +1,6 @@
+Numpy is a Linear Algebra Library for Python
+
+Numpy arrays
+    Vectors
+    Matrices
+    
