@@ -1,0 +1,12 @@
+
+ML = Statistical Learning
+
+3 main types of ML algorithms
+
+Supervised 
+Unsupervised
+Reinforcement
+
+
+
+
