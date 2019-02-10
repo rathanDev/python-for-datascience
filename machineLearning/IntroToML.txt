@@ -7,6 +7,19 @@ Supervised
 Unsupervised
 Reinforcement
 
+1. Supervised
+We have labeled data, we try to predict a label based off of known features
 
+2. Unsupervised
+We have unlabeled data, we try to group together similar data points based off of features
+
+self-organizing maps
+nearest neighbour mapping 
+k-means clustering
+
+3. Reinforcement
+Algorithm learn to perform an action from experience
+
+Often used for robotics, gaming and navigation
 
 
