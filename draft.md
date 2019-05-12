@@ -5,7 +5,10 @@ https://hub.mybinder.org/user/ipython-ipython-in-depth-d35t28qz/notebooks/binder
 Widget -> Save notebook widget state
 
 ModuleNotFoundError
+pip install pandas
+pip install matplotlib
 pip install seaborn
+
 
 GitHub repo
 https://github.com/rathanDev/python-for-datascience
