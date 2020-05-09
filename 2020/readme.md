@@ -1,3 +1,59 @@
+
+Udemy wishlist
+
+https://www.udemy.com/course/python-coding/
+Python A-Z™: Python For Data Science With Real Exercises!
+$10.99
+Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization
+4.6 (14,518 ratings)
+108,563 students enrolled
+Created by Kirill Eremenko, SuperDataScience Team
+Last updated 5/2020
+
+udemy.com/course/microservices-with-node-js-and-react/
+Microservices with Node JS and React
+Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes
+BESTSELLER
+$9.99
+4.8 (658 ratings)
+8,226 students enrolled
+Created by Stephen Grider
+Last updated 5/2020
+46 hours on demand video
+
+https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/
+Django 3 - Full Stack Websites with Python Web Development
+Build 3 stunning websites, learn Back and Front End Web Development, deploy your site with HTML5, CSS3 and Bootstrap 4
+HIGHEST RATED
+4.7 (664 ratings)
+3,183 students enrolled
+Created by Nick Walter
+Last updated 3/2020
+funny guy, interesting
+8.5 hours of video
+
+
+
+
+Traversy
+may be it can be found on youtube
+https://www.udemy.com/course/python-django-dev-to-deployment/
+
+## ----- ----- ## ----- ----- ## ----- ----- ## ----- ----- ## 
+Error: Anaconda is already running
+
+C:\Users\user>tasklist | findstr "pythonw"                                                                              
+pythonw.exe                   8580 Console                    5     14,984 K                                            
+pythonw.exe                  29516 Console                    5    359,844 K  
+
+C:\Users\user>taskkill /pid 29516 /f                                                                                    
+SUCCESS: The process with PID 29516 has been terminated. 
+
+## ----- ----- ## ----- ----- ## ----- ----- ## ----- ----- ## 
+
+
+## ----- ----- ## ----- ----- ## ----- ----- ## ----- ----- ## 
+
 udemy.com 
 
 Machine Learning 
@@ -110,4 +166,30 @@ False negative
 Accuracy = (TP + TN) / total 
 
 90. Logistic Regression with Python - part 1 
+
+
+
+95. KNN Theory
+
+K nearest neighbors is a classification algorithm that operates on a very simple principle.
+Data on Dogs and Horses with heights and weights.
+
+Pros:
+Very simple 
+Training is trivial 
+Works with any number of classes 
+Easy to add more data 
+Few parameters 
+    K
+    Distance metric 
+
+Cons:
+High prediction cost (worse for large data sets)
+Not good with high dimensional data
+Categorical features don't work well
+
+A common interview task for a data scientist:
+Classify an anonymized data without knowing the context of it.
+
+ 
 
