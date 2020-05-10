@@ -193,3 +193,38 @@ Classify an anonymized data without knowing the context of it.
 
  
 
+99. Intro to Tree methods
+
+Asking friend to come and play Tennis with me 
+
+Random Forests 
+
+100. Decision Trees and Random Forests with Python 
+
+104. SVM Theory 
+
+Support Vector machines 
+
+for non-linearly separable data 
+using kernel trick it can be seperated 
+by viewing it in multidiemension 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
