@@ -10,7 +10,7 @@ Programming In Python For Data Analytics And Data Science. Learn Statistical Ana
 Created by Kirill Eremenko, SuperDataScience Team
 Last updated 5/2020
 
-udemy.com/course/microservices-with-node-js-and-react/
+https://udemy.com/course/microservices-with-node-js-and-react/
 Microservices with Node JS and React
 Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes
 BESTSELLER
