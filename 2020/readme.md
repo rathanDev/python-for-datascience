@@ -205,9 +205,13 @@ Random Forests
 
 Support Vector machines 
 
+data belongs to one of 2 categories
+
 for non-linearly separable data 
 using kernel trick it can be seperated 
 by viewing it in multidiemension 
+
+
 
 
 
