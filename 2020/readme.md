@@ -212,6 +212,22 @@ using kernel trick it can be seperated
 by viewing it in multidiemension 
 
 
+108. Intro to K Means Clustering
+
+Unsupervised learning
+
+Cluster similar documents
+cluster customers based on features
+market segmentation
+identify similar physical projects 
+
+Sum of Squared Error (SSE)
+
+Elbow method 
+- Choose the K,
+    at which the SSE decreases abruptly
+
+
 
 
 
