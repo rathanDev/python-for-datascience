@@ -227,6 +227,23 @@ Elbow method
 - Choose the K,
     at which the SSE decreases abruptly
 
+112. Principal Component Analysis
+
+114. Recommender Systems
+
+CF - Collaborative filtering
+2 types 
+Memory based Collaborative filtering
+Model based collaborative filtering
+
+For mathematical savvies 
+
+117. Intro to Natural Language Processing
+
+Bag of words
+corpus
+Term Frequency - Inverse Document Frequency
+
 
 
 
